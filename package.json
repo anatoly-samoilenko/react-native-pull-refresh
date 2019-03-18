@@ -1,6 +1,6 @@
 {
   "name": "react-native-pull-refresh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom pull to refresh component for Android",
   "main": "index.js",
   "scripts": {
